@@ -4,13 +4,7 @@
 
 ## 📌 Project Overview
 
-This project aims to build a machine learning model to **detect and classify different types of faults** in a power distribution system using electrical measurement data like **voltage and current phasors**. The system can identify whether the power grid is operating normally or experiencing faults such as:
-
-- Line-to-Ground Fault  
-- Line-to-Line Fault  
-- Three-Phase Fault  
-
-The model helps in **automating fault detection**, improving response time, and increasing **grid reliability**.
+This project aims to build a machine learning model to **detect and classify different types of faults** in a power distribution system using electrical measurement data like **voltage and current phasors**
 
 ---
 
