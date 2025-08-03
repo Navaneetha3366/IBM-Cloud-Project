@@ -1,1 +1,58 @@
 # IBM-Cloud-Project
+
+# Power System Fault Detection and Classification Using Machine Learning
+
+## 📌 Project Overview
+
+This project aims to build a machine learning model to **detect and classify different types of faults** in a power distribution system using electrical measurement data like **voltage and current phasors**. The system can identify whether the power grid is operating normally or experiencing faults such as:
+
+- Line-to-Ground Fault  
+- Line-to-Line Fault  
+- Three-Phase Fault  
+
+The model helps in **automating fault detection**, improving response time, and increasing **grid reliability**.
+
+---
+
+## 🧠 Technologies Used
+
+- **IBM Watsonx.ai Studio** (for model development & deployment)
+- **IBM Cloud Object Storage** (for dataset handling)
+- **Machine Learning Models**:
+
+
+---
+
+## ⚙️ System Workflow
+
+1. **Data Collection**  
+   Used a publicly available dataset (e.g., from Kaggle) with labeled fault types.
+
+2. **Data Pre-processing**  
+   - Handled missing values  
+   - Normalized and cleaned the data
+
+3. **Model Training**  
+   Trained a Random Forest Classifier to classify fault types.
+
+4. **Model Deployment**  
+   Deployed the model using IBM Watsonx.ai with a real-time API for fault prediction.
+
+---
+
+## ✅ Results
+
+The model was able to **accurately classify** fault types based on input voltage and current phasor values. It demonstrated high performance using accuracy, precision, recall, and F1-score.
+
+---
+
+## 📌 Conclusion
+
+This machine learning model enables:
+- Rapid and accurate detection of power system faults
+- Automation of grid monitoring
+- Improved decision-making and fault response time
+
+---
+
+
