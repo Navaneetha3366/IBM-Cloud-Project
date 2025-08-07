@@ -38,6 +38,11 @@ This project aims to build a machine learning model to **detect and classify dif
 
 The model was able to **accurately classify** fault types based on input voltage and current phasor values. It demonstrated high performance using accuracy, precision, recall, and F1-score.
 
+
+### 🔹 Model Accuracy
+![Model Accuracy](https://github.com/username/repo-name/blob/main/result1.png?raw=true)
+
+
 ---
 
 ## 📌 Conclusion
