@@ -40,7 +40,7 @@ The model was able to **accurately classify** fault types based on input voltage
 
 
 ### 🔹 Model Accuracy
-![Model Accuracy](https://github.com/username/repo-name/blob/main/result1.png?raw=true)
+![Model Result1]([https://github.com/username/repo-name/blob/main/result1.png?raw=true](https://github.com/Navaneetha3366/IBM-Cloud-Project/blob/main/Result%201.png?raw=true))
 
 
 ---
